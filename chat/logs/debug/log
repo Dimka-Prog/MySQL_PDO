@@ -1,0 +1,9 @@
+
+[2022-06-02T11:53:31.584392+10:00] INFO LOGGER.INFO: Caught user:  {"user":"dima","message":"Проверка","time":"11:53:31"} []
+[2022-06-02T11:53:55.521879+10:00] INFO LOGGER.INFO: Caught user:  {"user":"aaa","message":"Проверка","time":"11:53:55"} []
+[2022-06-02T11:54:34.133939+10:00] INFO LOGGER.INFO: Caught user:  {"user":"dima","message":"Проверка","time":"11:54:34"} []
+[2022-06-02T11:56:18.160161+10:00] INFO LOGGER.INFO: Caught user:  {"user":"dima","message":"Проверка","time":"11:56:18"} []
+[2022-06-02T11:57:47.706338+10:00] INFO LOGGER.INFO: Caught user:  {"user":"dima","message":"Проверка","time":"11:57:47"} []
+[2022-06-02T12:16:46.002029+10:00] INFO LOGGER.INFO: Caught user:  {"user":"dima","message":"Проверка","time":"12:16:46"} []
+[2022-06-02T12:18:24.967651+10:00] INFO LOGGER.INFO: Caught user:  {"user":"aaa","message":"Проверка","time":"12:18:24"} []
+[2022-06-02T12:28:17.380057+10:00] INFO LOGGER.INFO: Caught user:  {"user":"gyg","message":"Hi","time":"12:28:17"} []
